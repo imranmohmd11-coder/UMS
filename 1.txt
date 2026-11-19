@@ -1,2 +1,6 @@
 edit check karna hai fetch k liye
+<<<<<<< Updated upstream
 okokok
+=======
+to check stash
+>>>>>>> Stashed changes
